@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1091310325725",
+    "project_id": "cryptoys-d270a",
+    "storage_bucket": "cryptoys-d270a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091310325725:android:a259351a783c9f53d83034",
+        "android_client_info": {
+          "package_name": "com.cryptoguys.crypto_coins_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091310325725-ddlliv8d9q9m7cfv4h63cli8dsm2pjjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoZXKB2w1tu8s_KlVhU3Vp_-KP6UMSVSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091310325725-ddlliv8d9q9m7cfv4h63cli8dsm2pjjk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1091310325725-38298dup9igd1icnf8sf9aag9826tjrb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cryptoguys.cryptoCoinsList"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
